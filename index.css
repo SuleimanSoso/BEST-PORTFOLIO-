@@ -1,0 +1,35 @@
+body {
+    background-color: aqua;
+}
+
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+    
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer {
+    padding: 20px;
+}
+
+
